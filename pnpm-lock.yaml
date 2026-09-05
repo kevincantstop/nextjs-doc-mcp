@@ -72,6 +72,9 @@ importers:
       '@types/react-dom':
         specifier: ^19
         version: 19.2.7(@types/react@19.2.18)
+      baseline-browser-mapping:
+        specifier: ^2.11.21
+        version: 2.11.21
       es-abstract:
         specifier: ^1.24.0
         version: 1.24.2

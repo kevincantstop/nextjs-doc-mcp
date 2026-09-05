@@ -13,11 +13,5 @@
         { "key": "Cache-Control", "value": "no-cache" }
       ]
     }
-  ],
-  "functions": {
-    "app/api/mcp/route.ts": {
-      "maxDuration": 60,
-      "memory": 1024
-    }
-  }
+  ]
 }

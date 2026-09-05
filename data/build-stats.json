@@ -1,0 +1,13 @@
+{
+  "totalDocs": 452,
+  "totalCodeExamples": 3563,
+  "categories": {
+    "app-router": 282,
+    "pages-router": 162,
+    "architecture": 5,
+    "community": 3
+  },
+  "version": "16.0.1",
+  "buildDate": "2026-09-05T08:19:46.985Z",
+  "buildDuration": "1.74s"
+}

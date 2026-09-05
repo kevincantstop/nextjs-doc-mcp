@@ -65,7 +65,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-8">
-              <div className="font-semibold text-gray-900">Next.js Docs MCP</div>
+              <div className="font-semibold text-gray-900">Next.js (v16.3.4) Docs MCP</div>
               <nav className="hidden md:flex items-center gap-6 text-sm">
                 <a href="#quickstart" className="text-gray-600 hover:text-gray-900">Quick Start</a>
                 <a href="#tools" className="text-gray-600 hover:text-gray-900">Tools</a>
